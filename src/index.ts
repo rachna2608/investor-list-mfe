@@ -1,0 +1,1 @@
+export { default as InvestorTable } from './components/InvestorTable';
